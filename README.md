@@ -17,6 +17,12 @@ Should work on IDEA (Community and Ultimate), WebStorm, PyCharm, RubyMine and mo
 
 ## Install
 
+**The new release 5 is not yet uploaded to the IntelliJ Marketplace.  To try it, 
+manual download the latest [5.0.0-beta<N> release](https://github.com/intellij-elm/intellij-elm/releases) 
+as described below. Alternatively, download the sources and help 
+fix [things](https://github.com/intellij-elm/intellij-elm/contribute).  Read how
+in our [guide](/docs/contributing.md).**
+
 First make sure to uninstall all other Elm plugins you may have installed (this requires a restart of the IDE).
 Some have reported that having two Elm plugins installed results in the IDE not starting but showing a seemingly unreleated error
 (if you have this problem, there are [ways to fix it](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360000524244-Disable-Uninstall-plugin-without-launching-Idea)).
